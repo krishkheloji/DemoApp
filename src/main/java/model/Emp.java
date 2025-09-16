@@ -6,5 +6,8 @@ public class Emp {
 		
 	}
 	
-	
+	public void test()
+	{
+		
+	}
 }	
